@@ -82,7 +82,7 @@ pip install pyautogui opencv-python keyboard customtkinter pillow
 python main.py
 ```
 
-Em ambos os casos, com o jogo aberto, aperte **F8** para ligar o macro, e **F8** novamente para desligar a qualquer momento.
+Em ambos os casos, com o jogo aberto, você precisa estar posicionado no ponto de respawn do Zagreus, logo à frente da piscina de Estige (como mostrado no primeiro vídeo de demonstração), e apertar **F8** para ligar o macro e **F8** novamente para desligar a qualquer momento.
 
 
 ## Demonstração
